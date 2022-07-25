@@ -1,10 +1,7 @@
 # PS
-Problem Solving
+Problem Solving(BOJ, Programmers, etc..)
 
-# Note
-
->>>>>>>>>>22-07-25<<<<<<<<<<
-
+# Note (22-07-25~)
 1. GCD(최대공약수), LCM(최소공배수)
 - 유클리드 호제법(Euclidean Algorithm) 사용.
 
