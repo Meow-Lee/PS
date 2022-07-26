@@ -16,4 +16,4 @@ Problem Solving(BOJ, Programmers, etc..)
     -> PS는 대부분 Single Thread 환경이라 해당 코드를 추가해줘도 괜찮음(대부분)  
     
 - <cin.tie(NULL);> , <cout.tie(NULL);>
-  = 읽고 출력할 때 버퍼를 비워
+  = 읽고 출력할 때 버퍼를 비워줌
