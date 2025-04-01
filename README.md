@@ -36,5 +36,10 @@ LeetCode를 풀면서 정리한 문제들입니다.
       <td style="text-align: center; color: green;">Easy</td>
       <td style="text-align: center;"><a href="./LeetCode/28. Find the Index of the First Occurrence in a String.md">Solution</a></td>
     </tr>
+    <tr>
+      <td style="text-align: center;">1974. Minimum Time to Type Word Using Special Typewriter</td>
+      <td style="text-align: center; color: green;">Easy</td>
+      <td style="text-align: center;"><a href="./LeetCode/1974. Minimum Time to Type Word Using Special Typewriter.md">Solution</a></td>
+    </tr>
   </tbody>
 </table>
